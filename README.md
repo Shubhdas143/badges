@@ -1,2 +1,2 @@
-# Badges
+# Badges for Profile
 ---
