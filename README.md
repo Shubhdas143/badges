@@ -23,10 +23,4 @@ GitHub Achievements are special badges awarded for various contributions and act
 * Maintain a record of GitHub accomplishments
 * Showcase engagement with the GitHub community
 
-## Profile
 
-Feel free to visit my GitHub profile to see these achievements and explore my projects.
-
----
-
-**Maintained by Shubhranshu Shekhar Das**
